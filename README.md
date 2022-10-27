@@ -1,10 +1,10 @@
 # Anime
-## List of Animes into an API. CRUD methods 
+## My first CRUD API
 
-This is the implementation of a REST API with Java Spring Boot. 
+This is the implementation of a REST API with Java Spring Boot built for learning purpose. 
 
-## Features
+## Technologies involved
 
-- Create, Read, Update and delete Objects. 
-- It uses JPA with Spring.
-- Interacts with a MySQL DataBase with Spring
+- Spring Boot framework. 
+- JPA with Spring.
+- MySQL
